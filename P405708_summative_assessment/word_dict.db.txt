@@ -1,0 +1,49 @@
+apple,sweet and crunchy
+banana,yellow and curved
+orange,citrus and juicy
+grape,small and round
+strawberry,red and sweet
+carrot,orange and crunchy
+broccoli,green and nutritious
+tomato,red and juicy
+spinach,leafy and nutritious
+car,fast and convenient
+bicycle,eco-friendly and healthy
+motorcycle,fast and thrilling
+train,efficient and spacious
+airplane,high-flying and global
+germany,European and diverse
+japan,Asian and technologically advanced
+brazil,Latin American and diverse
+australia,Oceania and unique wildlife
+egypt,African and rich history
+chair,comfortable and functional
+table,versatile and sturdy
+bed,relaxing and restful
+sofa,comfortable and cozy
+cabinet,storage and organized
+sunny,warm and bright
+rainy,wet and refreshing
+snowy,cold and magical
+cloudy,overcast and gloomy
+windy,breezy and refreshing
+one,first and simple
+two,second and couple
+three,third and few
+four,fourth and several
+five,fifth and handful
+red,bright and vibrant
+blue,calm and soothing
+yellow,cheerful and sunny
+green,fresh and natural
+purple,royal and mysterious
+happy,joyful and content
+sad,upset and melancholic
+angry,frustrated and furious
+surprised,astonished and amazed
+scared,anxious and fearful
+london,England and historic and cosmopolitan
+paris,France and romantic and cultural
+newyork,US and vibrant and diverse
+tokyo,Japan and modern and high-tech
+sydney,Australia and breathtaking and coastal
